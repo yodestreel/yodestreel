@@ -3,6 +3,11 @@
 - 🔭 I’m currently finishing my bachelor's degree in bioengineering at l'Université Catholique de Louvain
 - 📫 How to reach me: yoline@destreel.com
 - 📄 Know about my experiences https://www.linkedin.com/in/ydestreel/
+
+Main studies:
+
+Le Wagon 2023 => Bootcamp in Data Science and Artificial Intelligence
+UCL 2020 =>BSc Bio Engineering
 <!--
 **yodestreel/yodestreel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
