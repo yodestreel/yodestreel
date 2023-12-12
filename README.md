@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#🔭 I’m currently finishing my bachelor's degree in bioengineering at l'Université Catholique de Louvain (UCL)
+
 <!--
 **yodestreel/yodestreel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
